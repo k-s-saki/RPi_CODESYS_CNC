@@ -1,0 +1,7 @@
+# 
+*.opt
+*.compileinfo
+*.bootinfo
+*.bootinfo_guids
+PlcLogic
+
