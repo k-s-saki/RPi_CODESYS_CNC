@@ -1,4 +1,4 @@
-# RPi_CODESYS
+# RPi_CODESYS_CNC
 
 Raspberry Pi + CODESYS(SoftMotion CNC/ROBOTICS) + EtherCAT でどこまで汎用のCNCが作れるか挑戦しています。
 
