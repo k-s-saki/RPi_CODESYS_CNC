@@ -3,5 +3,7 @@
 *.compileinfo
 *.bootinfo
 *.bootinfo_guids
+*.backup
+*.precompilecache
 PlcLogic
 
