@@ -15,6 +15,10 @@ Raspberry Pi + CODESYS(SoftMotion CNC/ROBOTICS) でどこまで汎用の(FANUC�
 
 ## 開発の経緯と意義
 
+
+
+![image](https://github.com/k-s-saki/RPi_CODESYS_CNC/assets/30764977/3e141b88-2620-4469-a158-ec25fdf65459)
+
 CODESYSのCNCは、DIN66025のGコードをサポートします。ただ、マシニングセンタなどに搭載されている、一般的な汎用のCNCに比べると必要な（あってほしい）機能が無かったりします。
 
 DIN66025についてはこちら
@@ -91,3 +95,7 @@ CODESYSの必要なライセンス購入が必要ですが、RPiであれば、�
 
 これだけの機能が、PCとIoTをベースとしてRPiでプロトタイプや検証をおこなったあと、信頼・実績・保守のある日本企業のPLCに簡単に変換し調整でき、加えて各社のサーボモータ・ステッピングモータが容量、構造などを問わず、自由に組み合わせて使えるのは驚きです。
 
+
+![image](https://github.com/k-s-saki/RPi_CODESYS_CNC/assets/30764977/ac96e098-c7c2-49ae-88b3-adaee331c296)
+
+![image](https://github.com/k-s-saki/RPi_CODESYS_CNC/assets/30764977/e1da095e-0aab-4cf0-a5ab-36eebf843178)
