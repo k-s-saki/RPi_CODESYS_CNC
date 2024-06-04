@@ -2,6 +2,7 @@
 
 ![image](https://github.com/k-s-saki/RPi_CODESYS_CNC/assets/30764977/b74649d9-26e1-434d-a580-865c8b4031f2)
 
+
 Raspberry Pi + CODESYS(SoftMotion CNC/ROBOTICS) でどこまで汎用の(FANUCやSIEMENS等の）CNCに近いものが作れるでしょうか。
 
 現時点では、EtherCATを想定しています。
@@ -10,6 +11,13 @@ Raspberry Pi + CODESYS(SoftMotion CNC/ROBOTICS) でどこまで汎用の(FANUC�
 機材が手に入れば、RPi+EtherCATサーボドライブでテストしてみようと思います。
 
 （　EtherCATデバイス（ACサーボドライブの機材など）で、もし不要なものがありましたら、譲渡・貸与頂けると、とても助かります。　）
+
+
+---
+
+## プロジェクトの状態
+
+　現在、テスト実装です。仮想サーボで利用してください。不具合があればお知らせください。
 
 ---
 
